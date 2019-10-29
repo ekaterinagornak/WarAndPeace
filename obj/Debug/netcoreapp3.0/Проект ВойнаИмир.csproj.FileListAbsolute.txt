@@ -1,0 +1,11 @@
+c:\Users\stud\Documents\Проект ВойнаИмир\bin\Debug\netcoreapp3.0\Проект ВойнаИмир.exe
+C:\Users\stud\Documents\Проект ВойнаИмир\bin\Debug\netcoreapp3.0\Проект ВойнаИмир.deps.json
+C:\Users\stud\Documents\Проект ВойнаИмир\bin\Debug\netcoreapp3.0\Проект ВойнаИмир.runtimeconfig.json
+C:\Users\stud\Documents\Проект ВойнаИмир\bin\Debug\netcoreapp3.0\Проект ВойнаИмир.runtimeconfig.dev.json
+c:\Users\stud\Documents\Проект ВойнаИмир\bin\Debug\netcoreapp3.0\Проект ВойнаИмир.dll
+c:\Users\stud\Documents\Проект ВойнаИмир\bin\Debug\netcoreapp3.0\Проект ВойнаИмир.pdb
+c:\Users\stud\Documents\Проект ВойнаИмир\obj\Debug\netcoreapp3.0\Проект ВойнаИмир.csprojAssemblyReference.cache
+c:\Users\stud\Documents\Проект ВойнаИмир\obj\Debug\netcoreapp3.0\Проект ВойнаИмир.AssemblyInfoInputs.cache
+c:\Users\stud\Documents\Проект ВойнаИмир\obj\Debug\netcoreapp3.0\Проект ВойнаИмир.AssemblyInfo.cs
+c:\Users\stud\Documents\Проект ВойнаИмир\obj\Debug\netcoreapp3.0\Проект ВойнаИмир.dll
+c:\Users\stud\Documents\Проект ВойнаИмир\obj\Debug\netcoreapp3.0\Проект ВойнаИмир.pdb
